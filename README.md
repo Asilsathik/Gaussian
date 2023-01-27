@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gaussian elimination]()
+![gaussian elimination](https://user-images.githubusercontent.com/119476247/215160227-63feba4f-c529-47e5-a754-e5d85e1815f7.png)
 
 
 ## Result:
